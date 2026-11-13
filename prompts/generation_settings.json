@@ -1,0 +1,24 @@
+{
+  "source": "Method, Section 3.3 of the supplied latex_source.zip",
+  "model_names_as_recorded": [
+    "GPT-5",
+    "Deepseek v4 flash",
+    "Claude Haiku 4.5"
+  ],
+  "temperature": 1.0,
+  "max_output_tokens": 3200,
+  "messages_per_request": [
+    "system",
+    "user"
+  ],
+  "replies_per_model_scenario_condition": 1,
+  "order": "fixed shuffled order",
+  "generation_order_seed": null,
+  "generation_order_note": "The supplied manuscript does not give the shuffle seed; none is inferred from an earlier experiment configuration.",
+  "scenario_count": 60,
+  "condition_count": 4,
+  "model_count": 3,
+  "analysis_bootstrap_seed": 20261011,
+  "analysis_bootstrap_resamples": 5000,
+  "generation_code": "No API client, endpoint or credentials are included."
+}

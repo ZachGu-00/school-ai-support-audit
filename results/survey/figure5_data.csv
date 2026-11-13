@@ -1,0 +1,15 @@
+pair_id,form,group,n_concern_endorsed,n_group,concern_pct,wilson_low_pct,wilson_high_pct
+primary_relief_privacy,primary_student,benefit_not_endorsed,535,5161,10.366208099205581,9.563849409896852,11.227523711280968
+primary_relief_privacy,primary_student,benefit_endorsed,2165,4405,49.148694665153236,47.6737538306271,50.6251189979717
+middle_relief_privacy,middle_student,benefit_not_endorsed,337,2386,14.124056999161777,12.784233119448906,15.579215690882892
+middle_relief_privacy,middle_student,benefit_endorsed,810,1537,52.700065061808715,50.20042387202385,55.18624323281415
+parent_support_privacy,parent,benefit_not_endorsed,1591,3753,42.39275246469491,40.82027927228843,43.98078283643195
+parent_support_privacy,parent,benefit_endorsed,6223,8513,73.09996475977916,72.14772029971995,74.0313710807669
+parent_support_human_role,parent,benefit_not_endorsed,1195,3753,31.841193711697308,30.369968109743034,33.349554927360096
+parent_support_human_role,parent,benefit_endorsed,5836,8513,68.55397627158463,67.55950154163335,69.5317137319385
+teacher_value_privacy,teacher,benefit_not_endorsed,57,226,25.221238938053098,20.005688222911076,31.265070075149325
+teacher_value_privacy,teacher,benefit_endorsed,1089,1320,82.5,80.3567183612654,84.4546677970382
+teacher_value_relationship,teacher,benefit_not_endorsed,70,226,30.97345132743363,25.305262648261785,37.27764104489174
+teacher_value_relationship,teacher,benefit_endorsed,1066,1320,80.75757575757575,78.54295323316025,82.79369660430191
+teacher_value_human_role,teacher,benefit_not_endorsed,66,226,29.20353982300885,23.66247780633634,35.43976576525007
+teacher_value_human_role,teacher,benefit_endorsed,993,1320,75.22727272727273,72.82748004304399,77.48065886305183

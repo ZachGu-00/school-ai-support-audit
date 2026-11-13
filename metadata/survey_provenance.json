@@ -1,0 +1,62 @@
+[
+  {
+    "form": "primary_student",
+    "source_file": "小学生.xlsx",
+    "source_sha256": "3110331de4b2dc5215b24fc0b4754c167ff5ceebe15a36c939fac2364754d80d",
+    "source_records": 9566,
+    "released_records": 9566,
+    "released_items": 8,
+    "transformation": "Select article-specific original 1-5 item values; independently shuffle rows; assign release-only IDs. No recoding, imputation or score aggregation.",
+    "excluded": "Names, source IDs, school/class/grade, demographics, IP/network/source details, timestamps/duration, consent fields, open text, and all unrelated items.",
+    "raw_values_preserved": true,
+    "item_marginals_match_manuscript_archive": true
+  },
+  {
+    "form": "middle_student",
+    "source_file": "初中生.xlsx",
+    "source_sha256": "dfa7fe301a77a25042df62c8721753f20c46cead58828b026defe518c1df3451",
+    "source_records": 3923,
+    "released_records": 3923,
+    "released_items": 12,
+    "transformation": "Select article-specific original 1-5 item values; independently shuffle rows; assign release-only IDs. No recoding, imputation or score aggregation.",
+    "excluded": "Names, source IDs, school/class/grade, demographics, IP/network/source details, timestamps/duration, consent fields, open text, and all unrelated items.",
+    "raw_values_preserved": true,
+    "item_marginals_match_manuscript_archive": true
+  },
+  {
+    "form": "parent",
+    "source_file": "家长.xlsx",
+    "source_sha256": "5b0aee5d7bf2747cddc7eebda3d5e0687ba70d85d7b91c865239f632d9a940cc",
+    "source_records": 12266,
+    "released_records": 12266,
+    "released_items": 8,
+    "transformation": "Select article-specific original 1-5 item values; independently shuffle rows; assign release-only IDs. No recoding, imputation or score aggregation.",
+    "excluded": "Names, source IDs, school/class/grade, demographics, IP/network/source details, timestamps/duration, consent fields, open text, and all unrelated items.",
+    "raw_values_preserved": true,
+    "item_marginals_match_manuscript_archive": true
+  },
+  {
+    "form": "teacher",
+    "source_file": "教师.xlsx",
+    "source_sha256": "ecefd8cf8a88a36c2a4c85386466346e4f174af92025b294633c7ffc34727726",
+    "source_records": 1546,
+    "released_records": 1546,
+    "released_items": 11,
+    "transformation": "Select article-specific original 1-5 item values; independently shuffle rows; assign release-only IDs. No recoding, imputation or score aggregation.",
+    "excluded": "Names, source IDs, school/class/grade, demographics, IP/network/source details, timestamps/duration, consent fields, open text, and all unrelated items.",
+    "raw_values_preserved": true,
+    "item_marginals_match_manuscript_archive": true
+  },
+  {
+    "form": "principal",
+    "source_file": "校长.xlsx",
+    "source_sha256": "036fadaf844a70869fb9c7028da57b0ea4080ce7a66d913f0cc36090472dc2f4",
+    "source_records": 95,
+    "released_records": 95,
+    "released_items": 4,
+    "transformation": "Select article-specific original 1-5 item values; independently shuffle rows; assign release-only IDs. No recoding, imputation or score aggregation.",
+    "excluded": "Names, source IDs, school/class/grade, demographics, IP/network/source details, timestamps/duration, consent fields, open text, and all unrelated items.",
+    "raw_values_preserved": true,
+    "item_marginals_match_manuscript_archive": true
+  }
+]

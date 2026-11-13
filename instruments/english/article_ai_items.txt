@@ -1,0 +1,58 @@
+AI-attitude items used in this article (English translations)
+The complete original blank questionnaires are in instruments/chinese/.
+Original Chinese anchors are given in metadata/survey_scale_anchors.csv.
+For students, teachers and principals: 1 strongly disagree, 2 disagree, 3 uncertain, 4 agree, 5 strongly agree.
+For parents: 1 strongly disagree, 2 disagree, 3 uncertain, 4 somewhat agree, 5 strongly agree.
+
+Primary students
+q053: Using AI tools can help me find better ways to communicate with classmates and friends.
+q054: I worry that the things I tell AI in confidence will be seen by others.
+q055: Telling AI my secrets feels safer than telling a person, because it will not laugh at me or criticise me.
+q056: When I feel under a lot of stress or upset, using an AI tool (for example talking to a chatbot) makes me feel a bit better.
+q057: Practising conversation with AI helps me feel more confident talking to classmates.
+q058: When I have to make an important decision (such as which after-school class to take), I ask AI for advice.
+q059: I feel that AI is like a patient friend who can listen to me at any time.
+q060: Sometimes I spend so much time chatting with AI that I have no time to play with real friends.
+
+Middle students
+q042: Using AI tools can help me find better ways to communicate with classmates and friends.
+q043: I worry that the things I tell AI in confidence will be seen by others.
+q044: I feel that AI cannot really ``understand'' my mood.
+q045: When I have something on my mind, I would rather talk to AI first than to a teacher or my parents.
+q046: Telling AI my secrets feels safer than telling a person, because it will not laugh at me or criticise me.
+q047: AI assistants are more patient than most people when listening to my troubles.
+q048: When I feel under a lot of stress or upset, using an AI tool (for example talking to a chatbot) makes me feel a bit better.
+q049: Practising conversation with AI helps me feel more confident talking to classmates.
+q050: I know that what AI says is not always right and that I need to judge for myself.
+q051: When I have to make an important decision (such as which after-school class to take), I ask AI for advice.
+q052: I feel that AI is like a patient friend who can listen to me at any time.
+q053: Sometimes I spend so much time chatting with AI that I have no time to play with real friends.
+
+Parents
+q078: I trust the school to protect the emotional data my child generates when using AI plus social-emotional tools.
+q079: I support the school using AI technology to help my child improve social-emotional skills (such as emotion management).
+q080: I am uneasy about letting an AI program guide my child's emotional development; this should be the work of people (parents or teachers).
+q081: I think the analysis and advice that AI systems give about my child's emotions are unreliable.
+q082: I worry that my child's use of AI tools for emotional communication will affect normal real-life social contact.
+q083: I worry that AI systems will instil incorrect values or ways of coping with emotions in my child.
+q084: I worry that my child will become so absorbed in interacting with AI that family communication is neglected.
+q085: I worry that these AI tools will collect too much personal information about my child.
+
+Teachers
+q045: I think AI tools help me identify more accurately the students in my class who need emotional attention.
+q046: AI technology can give students personalised social-emotional learning resources and reduce my teaching load.
+q047: Using AI tools helps me track and assess students' social-emotional development more objectively.
+q048: AI can be an effective supporting tool that enriches the content and forms of my social-emotional curriculum.
+q049: I am seriously concerned about the privacy and security of students' emotional data collected by AI systems.
+q050: I worry that AI algorithms may be biased and fail to address students' emotional needs fairly, especially those of disadvantaged students.
+q051: I am concerned that students will rely too much on AI emotional companionship and neglect real relationships with teachers and peers.
+q052: I worry that wide use of AI will weaken the unique ``human'' role of teachers in students' emotional education.
+q053: I am confident that I can use AI tools skilfully to support my social-emotional teaching.
+q054: I know how to integrate AI technology (such as AI assessment or tutoring) effectively into my existing social-emotional curriculum.
+q055: I can judge and select which AI tools are really suitable for my students.
+
+Principals
+q044: Our school has a clear development plan for integrating AI technology into social-emotional education.
+q045: Our teacher training in AI plus social-emotional skills is sufficient.
+q046: Our school has enough budget and technical resources (such as hardware, software and network) to support implementing AI plus social-emotional skills.
+q047: Our school has established clear norms on data privacy and ethical use for applying AI plus social-emotional skills.

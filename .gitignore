@@ -1,5 +1,9 @@
 __pycache__/
 *.py[cod]
 .venv/
-.env*
-results/reproduced/
+generated/
+private_inputs/
+.env
+.env.*
+.DS_Store
+Thumbs.db

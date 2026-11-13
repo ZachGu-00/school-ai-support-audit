@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: Please cite the associated manuscript when using these materials.
+title: "Configuring Support in School AI Assistants: Procedural Guidance, Human Referral, and Response Structure"
+type: dataset
+authors:
+  - family-names: Gu
+    given-names: Zhexi
+  - family-names: Zhu
+    given-names: Runping
+  - family-names: Mao
+    given-names: Yaqing
+  - family-names: Wu
+    given-names: Jianglun
+  - family-names: Chan
+    given-names: Philip Wing
+version: 3.0.0
+date-released: '2026-11-13'
+repository-code: 'https://github.com/ZachGu-00/school-ai-support-audit'
